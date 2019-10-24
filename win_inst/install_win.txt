@@ -1,0 +1,11 @@
+https://qiita.com/studio_haneya/items/0a9fb00aabbebda6d0c8
+
+CUDA 10.0 Archieve
+https://developer.nvidia.com/cuda-10.0-download-archive
+
+CUDA 10.0 local.exe
+https://developer.download.nvidia.com/compute/cuda/10.0/secure/Prod/local_installers/cuda_10.0.130_411.31_win10.exe?8OJm1lcd5rPr_I47QU3eDGkjBGiM3TC9A5wwPYEqlFm6Z8yfvqmNQeuLoW8v9VDoJP96-M8bT9Uh9Z55U5jYWodO9UmCwistA1WMgdTeCIltbZ8-QbIVkE9Zt0qFoVmDDix8ms6Xkyu_FgJhuXHYPOzmkIe-gkegFPhCZ9MB4YhvMU6Or-QlrFEMHWg
+
+
+cuDNN
+https://developer.download.nvidia.com/compute/machine-learning/cudnn/secure/7.6.4.38/Production/10.0_20190923/cudnn-10.0-windows10-x64-v7.6.4.38.zip?reW3JNorcwBUq2_BNBIlMvpmI9aFn5HzA_qsz30Jn1ZXWA3zCjTrloQUge66qB1IipeYrP9G0K_8QEtmOpUHU8mkNmzQ991FUrEzVJanftR2W1Giio2KXth1po27vMpcz_vIgJDlR_9aLrV4rSbRerSzKIR9kt0-wbUHmTdzkZauDAipwlD-PWV6x7P7I9foSxtlo1kPemXn_3H2xGKRyQeSE_Qqc45GNu14zcE
