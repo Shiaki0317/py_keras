@@ -27,6 +27,8 @@ ipywidgets = "*"
 tqdm = "*"
 xlrd = "*"
 scipy = "*"
+opencv-python = "*"
+opencv-contrib-python = "*"
 
 [requires]
 python_version = "3.6"
